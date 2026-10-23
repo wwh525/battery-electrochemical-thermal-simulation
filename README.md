@@ -1,1 +1,0 @@
-# battery-electrochemical-thermal-simulation
